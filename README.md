@@ -26,24 +26,18 @@ Foco da carreira: Atuar com desenvolvimento Front End web e/ou software. 🛠️
   
   <div>
   
-  <img align="center" alt="Andressa-html" height="100" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg"/>
-  
-  <img align="center" alt="Andressa-html" height="100" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg"/>
-  
-  <img align="center" alt="Andressa-html" height="100" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
-  
-  <img align="center" alt="Andressa-html" height="100" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg"/>
-  
-  <img align="center" alt="Andressa-html" height="100" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg"/>
-  
-  <img align="center" alt="Andressa-html" height="100" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg"/>
-  
-   <img align="center" alt="Andressa-html" height="100" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg"/>
+  <img align="center" alt="Je-html" height="100" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg"/>
+  <img align="center" alt="Je-html" height="100" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg"/>
+  <img align="center" alt="Je-html" height="100" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
+  <img align="center" alt="Je-html" height="100" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg"/>
+  <img align="center" alt="Je-html" height="100" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg"/>
+  <img align="center" alt="Je-html" height="100" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg"/>
+  <img align="center" alt="Je-html" height="100" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg"/>
   
  
   </div>
   
- 
+ ----------------------------------------------------
   Dúvidas e propostas: jessicaag.rs@gmail.com 📧
 
  
