@@ -6,7 +6,7 @@ Desenvolvedora Front End em Formação. 💻
 
 Estudante de Análise e Desenvolvimento de Sistemas. 📗
 
-Foco da carreira: Atuar com desenvolvimento Front End web e/ou software. 🛠️
+Front End web e/ou software. 🛠️
 
 <div>
   
