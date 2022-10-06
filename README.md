@@ -2,7 +2,7 @@
 
 Eu sou Jessica Aguiar, 🤩
 
-Desenvolvedora Front End em Formação. 💻
+Desenvolvedora Front End 💻
 
 Estudante de Análise e Desenvolvimento de Sistemas. 📗
 
