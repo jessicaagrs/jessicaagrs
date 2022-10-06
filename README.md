@@ -4,7 +4,7 @@ Eu sou Jessica Aguiar, 🤩
 
 Desenvolvedora Front End 💻
 
-Estudante de Análise e Desenvolvimento de Sistemas. 📗
+Estudante de Análise e Desenvolvimento de Sistemas pela @Uniritter e do curso de Desenvolvimento Full Stack @Onebitcode. 📗
 
 
 <div>
