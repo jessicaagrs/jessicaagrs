@@ -31,6 +31,7 @@ Estudante de Análise e Desenvolvimento de Sistemas pela @Uniritter e do curso d
   <img align="center" alt="Je-html" height="100" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
   <img align="center" alt="Je-html" height="100" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"/>
   <img align="center" alt="Je-html" height="100" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"/>
+  <img align="center" alt="Je-html" height="100" width="70" src="https://lh3.googleusercontent.com/IMwMrBvVxmZhjuggAOHeC4mrev15YbpUl__16Cf88TyJG6D8Gvb-emiLRwYO8ypXV4XGc9zFKMi1ez_8gXn6euzlMg=w128-h128-e365-rj-sc0x00ffffff"/>
   <img align="center" alt="Je-html" height="100" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg"/>
   <img align="center" alt="Je-html" height="100" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg"/>
 
