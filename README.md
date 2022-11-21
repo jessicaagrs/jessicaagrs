@@ -30,7 +30,7 @@ Estudante de Análise e Desenvolvimento de Sistemas pela @Uniritter e do curso d
   <img align="center" alt="Je-html" height="100" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg"/>
   <img align="center" alt="Je-html" height="100" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
   <img align="center" alt="Je-html" height="100" width="70" src="https://miro.medium.com/max/854/1*wqnAwHqLk4e5fJ393pgUKQ.png"/>
-  <img align="center" alt="Je-html" height="100" width="70" src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg)"/>
+  <img align="center" alt="Je-html" height="100" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg"/>
 
 
  
