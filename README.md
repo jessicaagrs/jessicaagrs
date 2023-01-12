@@ -9,7 +9,6 @@ Estudante de Análise e Desenvolvimento de Sistemas pela @Uniritter e do curso d
 
 <div>
   
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jessicaagrs&hide=javascript,html)](https://github.com/anuraghazra/github-readme-stats)
    
    <p dir="auto"><a target="_blank" rel="noopener noreferrer" href="https://github.com/jessicaagrs/jessicaagrs/blob/output/github-contribution-grid-snake.svg"><img      src="https://github.com/rafaballerini/rafaballerini/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" style="max-width: 100%;"></a></p>
   
