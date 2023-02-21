@@ -45,6 +45,9 @@ Estudante de Análise e Desenvolvimento de Sistemas pela @Uniritter e do curso d
   
   
   <img align="center" alt="Je-html" height="100" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg"/>
+    
+   
+  <img align="center" alt="Je-html" height="100" width="70" src="https://img.icons8.com/color/64/null/sass.png"/>
 
 
  
