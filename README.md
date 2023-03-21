@@ -48,6 +48,8 @@ Estudante de Análise e Desenvolvimento de Sistemas pela @Uniritter e do curso d
     
    
   <img align="center" alt="Je-html" height="100" width="70" src="https://img.icons8.com/color/64/null/sass.png"/>
+   
+  <img align="center" alt="Je-html" height="100" width="70" src="https://uploaddeimagens.com.br/images/004/401/283/thumb/svgexport-1.png?1679420134"/>
 
 
  
