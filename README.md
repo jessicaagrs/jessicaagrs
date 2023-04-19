@@ -30,27 +30,27 @@ Estudante de Análise e Desenvolvimento de Sistemas pela @Uniritter e do curso d
   
   <img align="center" alt="Je-html" height="70" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg"/>
   
-  <div/>
+  <img/>
   
   <img align="center" alt="Je-html" height="70" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg"/>
   
-   <div/>
+   <img/>
   
   <img align="center" alt="Je-html" height="70" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
   
-   <div/>
+   <img/>
   
   <img align="center" alt="Je-html" height="70" width="40" src="https://miro.medium.com/max/854/1*wqnAwHqLk4e5fJ393pgUKQ.png"/>
   
-   <div/>
+   <img/>
   
   <img align="center" alt="Je-html" height="70" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg"/>
   
-  <div/>
+  <img/>
    
   <img align="center" alt="Je-html" height="70" width="40" src="https://img.icons8.com/color/64/null/sass.png"/>
     
-  <div/>
+  <img/>
    
   <img align="center" alt="Je-html" height="70" width="40" src="https://uploaddeimagens.com.br/images/004/401/283/thumb/svgexport-1.png?1679420134"/>
 
