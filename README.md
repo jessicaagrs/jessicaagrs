@@ -53,6 +53,10 @@ Estudante de Análise e Desenvolvimento de Sistemas pela @Uniritter e do curso d
   <img/>
    
   <img align="center" alt="Je-html" height="70" width="40" src="https://uploaddeimagens.com.br/images/004/401/283/thumb/svgexport-1.png?1679420134"/>
+   
+  <img/>
+   
+  <img align="center" alt="Je-html" height="70" width="40" src="https://img.icons8.com/color/64/null/bootstrap.png"/>
 
 
  
