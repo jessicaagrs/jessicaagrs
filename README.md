@@ -26,41 +26,13 @@ Estudante de Análise e Desenvolvimento de Sistemas pela @Uniritter e do curso d
   
   # Tecnologias 🛠️
   
-  <div>
-  
-  <img align="center" alt="Je-html" height="70" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg"/>
-  
-  <img/>
-  
-  <img align="center" alt="Je-html" height="70" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg"/>
-  
-   <img/>
-  
-  <img align="center" alt="Je-html" height="70" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
-  
-   <img/>
-  
-  <img align="center" alt="Je-html" height="70" width="40" src="https://miro.medium.com/max/854/1*wqnAwHqLk4e5fJ393pgUKQ.png"/>
-  
-   <img/>
-  
-  <img align="center" alt="Je-html" height="70" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg"/>
-  
-  <img/>
-   
-  <img align="center" alt="Je-html" height="70" width="40" src="https://img.icons8.com/color/64/null/sass.png"/>
-    
-  <img/>
-   
-  <img align="center" alt="Je-html" height="70" width="40" src="https://uploaddeimagens.com.br/images/004/401/283/thumb/svgexport-1.png?1679420134"/>
-   
-  <img/>
-   
-  <img align="center" alt="Je-html" height="70" width="40" src="https://img.icons8.com/color/64/null/bootstrap.png"/>
-
-
- 
-  </div>
+  <h4 align="center" dir="auto">
+Tecnologias que você encontrará por aqui
+<div align="center" dir="auto"><br>
+ <h6 dir="auto">
+HTML - CSS - JAVASCRIPT - TYPESCRIPT - REACTJS - REACT NATIVE - NEXT.JS - REDUX - SASS - TAILWIND
+ <hr>
+</h6></div></h4>
   
  ----------------------------------------------------
   Dúvidas e propostas: jessicaag.rs@gmail.com 📧
