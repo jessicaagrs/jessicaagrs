@@ -28,7 +28,7 @@ Estudante de Análise e Desenvolvimento de Sistemas pela @Uniritter e do curso d
 
   <h4 align="center" dir="auto">
     <div align="center" dir="auto"><br>
-       <h6 dir="auto">
+       <h2 dir="auto">
           HTML - CSS - JAVASCRIPT - REACT - SASS - BOOTSRAP - BULMA
  
  ----------------------------------------------------
