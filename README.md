@@ -27,7 +27,7 @@ Estudante de Análise e Desenvolvimento de Sistemas pela @Uniritter e do curso d
   # Tecnologias 🛠️
   
   <h4 align="center" dir="auto">
-      O você encontrará por aqui
+      O você encontrará por aqui:
     <div align="center" dir="auto"><br>
       <h6 dir="auto">
           HTML - CSS - JAVASCRIPT - REACT - BOOTSTRAP - SASS
