@@ -27,12 +27,11 @@ Estudante de Análise e Desenvolvimento de Sistemas pela @Uniritter e do curso d
   # Tecnologias 🛠️
   
   <h4 align="center" dir="auto">
-Tecnologias que você encontrará por aqui
-<div align="center" dir="auto"><br>
- <h6 dir="auto">
-HTML - CSS - JAVASCRIPT - TYPESCRIPT - REACTJS - REACT NATIVE - NEXT.JS - REDUX - SASS - TAILWIND
- <hr>
-</h6></div></h4>
+      O você encontrará por aqui
+    <div align="center" dir="auto"><br>
+      <h6 dir="auto">
+          HTML - CSS - JAVASCRIPT - REACT - BOOTSTRAP - SASS
+
   
  ----------------------------------------------------
   Dúvidas e propostas: jessicaag.rs@gmail.com 📧
