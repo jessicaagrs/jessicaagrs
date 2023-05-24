@@ -6,7 +6,7 @@ Desenvolvedora Web 💻
 
 Estudante de Análise e Desenvolvimento de Sistemas pela @Uniritter e do curso de Desenvolvimento Full Stack @Onebitcode. 📗
 
-Conheça minhas experiências profissionais ➡️ [Curriculo](https://jessicaagrs.github.io/projeto_portifolio_bulma/){:target="_blank"}
+Conheça minhas experiências profissionais ➡️ <a href="https://jessicaagrs.github.io/projeto_portifolio_bulma/" target="_blank">Curriculo</a>
 
 <div align = "center">
   <a href="https://github.com/jessicaagrs">
