@@ -33,6 +33,7 @@ Estudante de Análise e Desenvolvimento de Sistemas pela @Uniritter e do curso d
   <a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"><img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" style="max-width: 100%;"></a>
   <a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"><img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" style="max-width: 100%;"></a>
   <a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"><img align="center" alt="Maia-c" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" style="max-width: 100%;"></a>
+   <a target="_blank" rel="noopener noreferrer nofollow" href="https://blogs.sap.com/wp-content/uploads/2020/12/SAPUI5_orange_vertical.png"><img align="center" alt="Maia-c" height="30" width="40" src="https://blogs.sap.com/wp-content/uploads/2020/12/SAPUI5_orange_vertical.png" style="max-width: 100%;"></a>
 </div>
   
 
