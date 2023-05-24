@@ -33,7 +33,7 @@ Estudante de Análise e Desenvolvimento de Sistemas pela @Uniritter e do curso d
   <a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"><img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" style="max-width: 100%;"></a>
   <a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"><img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" style="max-width: 100%;"></a>
   <a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"><img align="center" alt="Maia-c" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" style="max-width: 100%;"></a>
-   <a target="_blank" rel="noopener noreferrer nofollow" href="https://sap.github.io/ui5-tooling/v3/images/UI5_logo_wide.png"><img align="center" alt="Maia-c" height="30" width="40" src="https://sap.github.io/ui5-tooling/v3/images/UI5_logo_wide.png" style="max-width: 100%;"></a>
+   <a target="_blank" rel="noopener noreferrer nofollow" href="https://blog.leonhassan.co.uk/content/images/2017/08/O_UI5_V.svg"><img align="center" alt="Maia-c" height="30" width="40" src="https://blog.leonhassan.co.uk/content/images/2017/08/O_UI5_V.svg" style="max-width: 100%;"></a>
 </div>
   
 
