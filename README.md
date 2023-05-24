@@ -6,6 +6,8 @@ Desenvolvedora Web 💻
 
 Estudante de Análise e Desenvolvimento de Sistemas pela @Uniritter e do curso de Desenvolvimento Full Stack @Onebitcode. 📗
 
+Conheça minhas experiências profissionais [Curriculo](https://jessicaagrs.github.io/projeto_portifolio_bulma/)
+
 <div align = "center">
   <a href="https://github.com/jessicaagrs">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jessicaagrs&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
