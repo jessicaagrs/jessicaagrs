@@ -4,7 +4,7 @@ Eu sou Jessica Aguiar, 🤩
 
 Desenvolvedora  💻
 
-Estudante de Análise e Desenvolvimento de Sistemas pela @Uniritter e do curso de Desenvolvimento Full Stack @Onebitcode. 📗
+Estudante de Análise e Desenvolvimento de Sistemas pela @Uniritter e do curso de Desenvolvimento Full Stack @B7Web. 📗
 
 Conheça minhas experiências profissionais ➡️ <a href="https://jessicaagrs.github.io/projeto_portifolio_bulma/" target="_blank">Curriculo</a>
 
