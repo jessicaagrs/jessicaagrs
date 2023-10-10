@@ -23,46 +23,36 @@ Conheça minhas experiências profissionais ➡️ <a href="https://jessicaagrs.
   
   # Tecnologias 🛠️
 
-  <div style="display: flex; flex-direction: column; justify-content: center; align-items: center;"><br>
-        <figure style="display: flex; flex-direction: column; align-items: center; gap: 5px;">
-            <img height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" style="max-width: 100%;">
-            <figcaption style="font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;">HTML</figcaption>
+   <div style="display: flex; justify-content: center; align-items: center;">
+        <figure>
+            <img height="80" width="65" src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/html5/html5-original-wordmark.svg" style="max-width: 100%;">
         </figure>
-        <figure style="display: flex; flex-direction: column; align-items: center; gap: 5px;">
-            <img height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" style="max-width: 100%;">
-            <figcaption style="font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;">CSS</figcaption>
+        <figure>
+            <img height="80" width="65" src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/css3/css3-original-wordmark.svg" style="max-width: 100%;">
         </figure>
-        <figure style="display: flex; flex-direction: column; align-items: center; gap: 5px;">
-            <img height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" style="max-width: 100%;">
-            <figcaption style="font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;">Javascript</figcaption>
+        <figure>
+            <img height="80" width="65" src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/javascript/javascript-original.svg" style="max-width: 100%;">
         </figure>
-        <figure style="display: flex; flex-direction: column; align-items: center; gap: 5px;">
-            <img height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" style="max-width: 100%;">
-            <figcaption style="font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;">Typescript</figcaption>
+        <figure>
+            <img height="80" width="65" src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/typescript/typescript-original.svg" style="max-width: 100%;">
         </figure>
-        <figure style="display: flex; flex-direction: column; align-items: center; gap: 5px;">
-            <img height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" style="max-width: 100%;">
-            <figcaption style="font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;">React</figcaption>
+        <figure>
+            <img height="80" width="65" src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/react/react-original-wordmark.svg" style="max-width: 100%;">
         </figure>
-        <figure style="display: flex; flex-direction: column; align-items: center; gap: 5px;">
-            <img height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" style="max-width: 100%;">
-            <figcaption style="font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;">C#</figcaption>
+        <figure>
+            <img height="80" width="65" src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/csharp/csharp-original.svg" style="max-width: 100%;">
         </figure>
-        <figure style="display: flex; flex-direction: column; align-items: center; gap: 5px;">
-            <img height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/postgresql/postgresql-original.svg" style="max-width: 100%;">
-            <figcaption style="font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;">PostgreSQL</figcaption>
+        <figure>
+            <img height="80" width="65" src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/postgresql/postgresql-original-wordmark.svg" style="max-width: 100%;">
         </figure>
-        <figure style="display: flex; flex-direction: column; align-items: center; gap: 5px;">
-            <img height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/nodejs/nodejs-plain-wordmark.svg"" style="max-width: 100%;">
-            <figcaption style="font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;">NodeJS</figcaption>
+        <figure>
+            <img height="80" width="65" src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/nodejs/nodejs-original-wordmark.svg" style="max-width: 100%;">
         </figure>
-        <figure style="display: flex; flex-direction: column; align-items: center; gap: 5px;">
-            <img height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/mongodb/mongodb-original.svg"" style="max-width: 100%;">
-            <figcaption style="font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;">MongoDB</figcaption>
+        <figure>
+            <img height="80" width="65" src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/mongodb/mongodb-original-wordmark.svg" style="max-width: 100%;">
         </figure>
-        <figure style="display: flex; flex-direction: column; align-items: center; gap: 5px;">
-            <img height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/git/git-original.svg"" style="max-width: 100%;">
-            <figcaption style="font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;">Git</figcaption>
+        <figure>
+            <img height="80" width="65" src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/git/git-original-wordmark.svg" style="max-width: 100%;">
         </figure>
     </div>
 
