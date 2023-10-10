@@ -27,31 +27,31 @@ Conheça minhas experiências profissionais ➡️ <a href="https://jessicaagrs.
         <figure style="padding: 5px">
             <img height="80" width="65" src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/html5/html5-original-wordmark.svg" style="max-width: 100%;">
         </figure>
-        <figure>
+        <figure style="padding: 5px">
             <img height="80" width="65" src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/css3/css3-original-wordmark.svg" style="max-width: 100%;">
         </figure>
-        <figure>
+        <figure style="padding: 5px">
             <img height="80" width="65" src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/javascript/javascript-original.svg" style="max-width: 100%;">
         </figure>
-        <figure>
+        <figure style="padding: 5px">
             <img height="80" width="65" src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/typescript/typescript-original.svg" style="max-width: 100%;">
         </figure>
-        <figure>
+        <figure style="padding: 5px">
             <img height="80" width="65" src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/react/react-original-wordmark.svg" style="max-width: 100%;">
         </figure>
-        <figure>
+        <figure style="padding: 5px">
             <img height="80" width="65" src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/csharp/csharp-original.svg" style="max-width: 100%;">
         </figure>
-        <figure>
+        <figure style="padding: 5px">
             <img height="80" width="65" src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/postgresql/postgresql-original-wordmark.svg" style="max-width: 100%;">
         </figure>
-        <figure>
+        <figure style="padding: 5px">
             <img height="80" width="65" src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/nodejs/nodejs-original-wordmark.svg" style="max-width: 100%;">
         </figure>
-        <figure>
+        <figure style="padding: 5px">
             <img height="80" width="65" src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/mongodb/mongodb-original-wordmark.svg" style="max-width: 100%;">
         </figure>
-        <figure>
+        <figure style="padding: 5px">
             <img height="80" width="65" src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/git/git-original-wordmark.svg" style="max-width: 100%;">
         </figure>
     </div>
