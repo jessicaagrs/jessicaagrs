@@ -23,7 +23,7 @@ Conheça minhas experiências profissionais ➡️ <a href="https://jessicaagrs.
   
   # Tecnologias 🛠️
 
-  <div style="display: flex; justify-content: center; align-items: center;"><br>
+  <div style="display: flex; flex-direction: column; justify-content: center; align-items: center;"><br>
         <figure style="display: flex; flex-direction: column; align-items: center; gap: 5px;">
             <img height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" style="max-width: 100%;">
             <figcaption style="font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;">HTML</figcaption>
