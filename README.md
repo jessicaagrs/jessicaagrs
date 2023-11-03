@@ -2,7 +2,7 @@
 
 Eu sou Jessica Aguiar, 🤩
 
-Desenvolvedora  💻
+Atualmente sou Desenvolvedora Full Stack  💻
 
 Estudante de Análise e Desenvolvimento de Sistemas pela @Uniritter e do curso de Desenvolvimento Full Stack @B7Web. 📗
 
@@ -21,7 +21,7 @@ Conheça minhas experiências profissionais ➡️ <a href="https://jessicaagrs.
   [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jessicaag-rs/)
  
   
-  # Tecnologias 🛠️
+  # Tecnologias e Ferramentas 🛠️
 
   <div style="display: flex; gap: 5px;">
         <figure>
