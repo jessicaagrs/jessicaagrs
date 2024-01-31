@@ -6,7 +6,7 @@ Atualmente sou Desenvolvedora Full Stack  💻
 
 Estudante de Análise e Desenvolvimento de Sistemas pela @Uniritter e do curso de Desenvolvimento Full Stack @B7Web. 📗
 
-Conheça minhas experiências profissionais ➡️ <a href="https://jessicaagrs.github.io/projeto_portifolio_bulma/" target="_blank">Portifólio</a>
+Conheça minhas experiências profissionais ➡️ <a href="https://jessicaagrs.github.io/portifolio/" target="_blank">Portifólio</a>
 
 <div align = "center">
   <a href="https://github.com/jessicaagrs">
