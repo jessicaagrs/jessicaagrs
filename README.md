@@ -4,7 +4,7 @@ Eu sou Jessica Aguiar, 🤩
 
 Atualmente sou Desenvolvedora Full Stack  💻
 
-Estudante de Análise e Desenvolvimento de Sistemas pela @Uniritter e do curso de Desenvolvimento Full Stack @B7Web. 📗
+Graduada em Análise e Desenvolvimento de Sistemas pela @Uniritter 📗
 
 Conheça minhas experiências profissionais ➡️ <a href="https://jessicaagrs.github.io/portifolio/" target="_blank">Portifólio</a>
 
