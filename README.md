@@ -24,9 +24,9 @@ Conheça minhas experiências profissionais ➡️ <a href="https://jessicaagrs.
   # Tecnologias e Ferramentas 🛠️
 
   <div style="display: flex; gap: 5px;">
-        <figure>
-            ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-        </figure>
+ 
+            [![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)]
+
         <figure>
             <img height="80" width="65" src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/css3/css3-original-wordmark.svg" style="max-width: 100%;">
         </figure>
