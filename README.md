@@ -25,7 +25,7 @@ Conheça minhas experiências profissionais ➡️ <a href="https://jessicaagrs.
 
   <div style="display: flex; gap: 5px;">
  
-            [![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)]
+         
 
         <figure>
             <img height="80" width="65" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" style="max-width: 100%;">
