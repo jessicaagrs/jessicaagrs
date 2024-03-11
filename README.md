@@ -6,7 +6,7 @@ Atualmente sou Desenvolvedora Full Stack  💻
 
 Graduada em Análise e Desenvolvimento de Sistemas pela @Uniritter 📗
 
-/*Conheça minhas experiências profissionais ➡️ <a href="https://frontend-projeto-portifolio.vercel.app/" target="_blank">Portifólio</a>*/
+<!--Conheça minhas experiências profissionais ➡️ <a href="https://frontend-projeto-portifolio.vercel.app/" target="_blank">Portifólio</a>-->
 
 <div align = "center">
   <a href="https://github.com/jessicaagrs">
