@@ -8,8 +8,6 @@ Graduada em Análise e Desenvolvimento de Sistemas pela @Uniritter 📗
 
 <!--Conheça minhas experiências profissionais ➡️ <a href="https://frontend-projeto-portifolio.vercel.app/" target="_blank">Portifólio</a>-->
 
->"Se existe magia em lutar além dos limites da resistência, esta é a mágica de arriscar tudo por um sonho que ninguém enxerga, só você."   **Menina de Ouro**
-
 <div align = "center">
   <a href="https://github.com/jessicaagrs">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jessicaagrs&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
