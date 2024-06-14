@@ -2,7 +2,7 @@
 
 Eu sou Jessica Aguiar, 🤩
 
-Atualmente sou Desenvolvedora Full Stack  💻
+Desenvolvedora Web  💻
 
 Graduada em Análise e Desenvolvimento de Sistemas pela @Uniritter 📗
 
