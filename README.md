@@ -1,10 +1,12 @@
-### 👧🏾 Olá, bem vindo!
+### 👧🏾 Olá, bem vindo(a)!
 
 Eu sou Jessica Aguiar, 🤩
 
 Desenvolvedora Web  💻
 
 Graduada em Análise e Desenvolvimento de Sistemas pela @Uniritter 📗
+
+Estou na área desde 2022 atuando principalmente com desenvolvimento web, também tive a oportunidade de trabalhar com aplicativos desktop. Sou apaixonada por frontend, mas ao longo da minha jornada também desenvolvi soluções no backend com C# e NodeJS. Procuro sempre estar estudando aprendendo mais sobre as tecnologias do universo Javascript e criando projetos para praticar. Abaixo minhas redes sociais caso queira entrar em contato. 😊
 
 <!--Conheça minhas experiências profissionais ➡️ <a href="https://frontend-projeto-portifolio.vercel.app/" target="_blank">Portifólio</a>-->
 
