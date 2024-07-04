@@ -6,7 +6,7 @@ Desenvolvedora Web  💻
 
 Graduada em Análise e Desenvolvimento de Sistemas pela @Uniritter 📗
 
-Atualmente atuo com desenvolvimento web full stack focado em Node, React, Typescript. 😊
+Atualmente trabalho com desenvolvimento web full stack focado em Node, React, Typescript. 😊
 
 <!--Conheça minhas experiências profissionais ➡️ <a href="https://frontend-projeto-portifolio.vercel.app/" target="_blank">Portifólio</a>-->
 
