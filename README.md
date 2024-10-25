@@ -1,5 +1,5 @@
 # 💫 About Me:
-💻 Software Developer<br>📗 Formada em Análise e Desenvolvimento de Sistemas<br> ➡️ Experiência no ecossistema Javascript e atuando no momento com NET
+💻 Software Developer<br>📗 Graduated in Systems Analysis and Development<br> ➡️ Experience in the Javascript ecosystem and currently also working with NET
 
 
 ## 🌐 Socials:
