@@ -1,5 +1,5 @@
 # 💫 About Me:
-💻 Software Developer<br>📗 Graduated in Systems Analysis and Development<br> ➡️ Experience in the Javascript ecosystem and currently also working with NET
+💻 Software Developer<br>📗 Graduated in Systems Analysis and Development<br> ➡️ Experience in the Javascript ecosystem
 
 
 ## 🌐 Socials:
