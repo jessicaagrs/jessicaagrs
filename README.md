@@ -1,6 +1,8 @@
 # 💫 About Me:
 💻 Software Developer<br>📗 Graduated in Systems Analysis and Development<br> ➡️ Experience in the Javascript ecosystem
 
+###
+
 
 # ❇️ Tech Stack:
 
@@ -39,3 +41,7 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=git" height="60" alt="git logo"  />
 </div>
+
+###
+
+![Sanke](https://github.com/jessicaagrs/jessicaagrs/blob/output/github-contribution-grid-snake-dark.svg?palette=github-dark)
