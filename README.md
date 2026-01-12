@@ -17,23 +17,19 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=graphql" height="60" alt="graphql logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=go" height="60" alt="go logo"  />
+  <img src="https://skillicons.dev/icons?i=androidstudio" height="60" alt="androidstudio logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=rust" height="60" alt="rust logo"  />
+  <img src="https://skillicons.dev/icons?i=react" height="60" alt="react logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=nestjs" height="60" alt="nestjs logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
+  <img src="https://skillicons.dev/icons?i=vite" height="60" alt="python logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=wordpress" height="60" alt="wordpress logo"  />
 </div>
 
 ###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
-</picture>
+<img src="https://raw.githubusercontent.com/jessicaagrs/jessicaagrs/output/snake.svg" alt="Snake animation" />
 
 ###
