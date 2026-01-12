@@ -2,7 +2,7 @@
 💻 Software Developer<br>📗 Graduated in Systems Analysis and Development<br> ➡️ Experience in the Javascript ecosystem
 
 
-<h1 align="center">Hey 👋What's Up?</h1>
+# ❇️ Tech Stack:
 
 ###
 
@@ -26,10 +26,16 @@
   <img src="https://skillicons.dev/icons?i=vite" height="60" alt="python logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=wordpress" height="60" alt="wordpress logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=figma" height="60" alt="figma logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=git" height="60" alt="git logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=jest" height="60" alt="jest logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="60" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=postgres" height="60" alt="postgres logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=git" height="60" alt="git logo"  />
 </div>
-
-###
-
-<img src="https://raw.githubusercontent.com/jessicaagrs/jessicaagrs/output/snake.svg" alt="Snake animation" />
-
-###
