@@ -24,6 +24,8 @@
   <img src="https://skillicons.dev/icons?i=react" height="60" alt="react logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=nestjs" height="60" alt="nestjs logo"  />
+</div>
+<div align="center">
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=vite" height="60" alt="python logo"  />
   <img width="12" />
