@@ -41,7 +41,7 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=postgres" height="60" alt="postgres logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=git" height="60" alt="git logo"  />
+  <img src="https://skillicons.dev/icons?i=githubactions" height="60" alt="githubactions logo"  />
 </div>
 
 ###
