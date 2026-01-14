@@ -62,8 +62,8 @@
 # 📊 GitHub Stats:
 
 <div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
-    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=jessicaagrs&amp;theme=dark&amp;hide_border=false&amp;no-bg=true&amp;no-frame=true&amp;langs_count=10">
-  </a>
-  <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif">
+  <a href="https://github.com/AVS1508">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=jessicaagrs&amp;show_icons=true&amp;theme=algolia&amp;include_all_commits=true&amp;count_private=true">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jessicaagrs&amp;layout=compact&amp;langs_count=8&amp;theme=algolia">
+ </a>
 </div>
