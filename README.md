@@ -51,7 +51,7 @@
 ###
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jessicaagrs/jessicaagrs/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jessicaagrs/jessicaagrs/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jessicaagrs/jessicaagrs/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/jessicaagrs/jessicaagrs/output/pacman-contribution-graph.svg">
 </picture>
@@ -71,3 +71,5 @@
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jessicaagrs&amp;layout=compact&amp;langs_count=8&amp;theme=algolia">
  </a>
 </div>
+
+<!-- https://api.github.com/users/jessicaagrs -->
