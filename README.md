@@ -63,6 +63,7 @@
 
 <div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
-      <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=jessicaagrs&amp;theme=dark&amp;hide_border=false&amp;no-bg=true&amp;no-frame=true&amp;langs_count=10">
-    </a>
+    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=jessicaagrs&amp;theme=dark&amp;hide_border=false&amp;no-bg=true&amp;no-frame=true&amp;langs_count=10">
+  </a>
+  <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif">
 </div>
