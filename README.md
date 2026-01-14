@@ -1,3 +1,7 @@
+<div align="center">
+   <img alt="Hola" height="40px" width="40px" src="https://emojipedia-us.s3.amazonaws.com/source/skype/289/ghost_1f47b.png">
+ </div>
+
 # 💫 About Me:
 💻 Software Developer<br>📗 Graduated in Systems Analysis and Development<br> ➡️ Experience in the Javascript ecosystem
 
